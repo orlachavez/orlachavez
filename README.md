@@ -32,6 +32,6 @@ Análisis crítico | Resolución de problemas complejos | Optimización de Proce
 
 ## Redes y Contacto
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/orlando-javier-chavez-gabriel-dta-costcontroller/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-javier-chavez-gabriel-dta-costcontroller/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-295F98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:orlando.chavez.gabriel@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%2312100e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orlachavez)
